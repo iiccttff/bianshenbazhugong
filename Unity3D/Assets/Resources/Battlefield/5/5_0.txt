@@ -1,0 +1,84 @@
+{"frames": {
+
+"hg_qian002_684.png":
+{
+	"frame": {"x":421,"y":64,"w":684,"h":172},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":684,"h":172},
+	"sourceSize": {"w":684,"h":172}
+},
+"hg_qian003_140.png":
+{
+	"frame": {"x":472,"y":824,"w":140,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":192},
+	"sourceSize": {"w":140,"h":192}
+},
+"hg_qian004_412.png":
+{
+	"frame": {"x":595,"y":64,"w":412,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":412,"h":140},
+	"sourceSize": {"w":412,"h":140}
+},
+"hg_yuan003_958.png":
+{
+	"frame": {"x":2,"y":2,"w":958,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":958,"h":60},
+	"sourceSize": {"w":958,"h":60}
+},
+"hg_zhong002_147.png":
+{
+	"frame": {"x":771,"y":824,"w":147,"h":206},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":206},
+	"sourceSize": {"w":147,"h":206}
+},
+"hg_zhong003_155.png":
+{
+	"frame": {"x":614,"y":824,"w":155,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":189},
+	"sourceSize": {"w":155,"h":189}
+},
+"hg_zhong004_616.png":
+{
+	"frame": {"x":595,"y":206,"w":616,"h":393},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":616,"h":393},
+	"sourceSize": {"w":616,"h":393}
+},
+"hg_zhong005_468.png":
+{
+	"frame": {"x":2,"y":760,"w":468,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":468,"h":225},
+	"sourceSize": {"w":468,"h":225}
+},
+"hg_zhong006_694.png":
+{
+	"frame": {"x":2,"y":64,"w":694,"h":417},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":694,"h":417},
+	"sourceSize": {"w":694,"h":417}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "5_0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:03a369200bb67cd6017163e34b0cdb07:1/2$"
+}
+}

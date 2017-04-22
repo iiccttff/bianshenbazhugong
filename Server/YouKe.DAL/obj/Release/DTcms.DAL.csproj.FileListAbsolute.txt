@@ -1,0 +1,11 @@
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.DAL.dll
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.DAL.pdb
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.Common.dll
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.DBUtility.dll
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.Model.dll
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.Common.pdb
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.DBUtility.pdb
+F:\同步文件夹\youkeweb\DTcms.DAL\bin\Release\DTcms.Model.pdb
+F:\同步文件夹\youkeweb\DTcms.DAL\obj\Release\DTcms.DAL.csprojResolveAssemblyReference.cache
+F:\同步文件夹\youkeweb\DTcms.DAL\obj\Release\DTcms.DAL.dll
+F:\同步文件夹\youkeweb\DTcms.DAL\obj\Release\DTcms.DAL.pdb

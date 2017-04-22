@@ -1,0 +1,30 @@
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.BLL.dll
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.BLL.pdb
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.Common.dll
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.DAL.dll
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.Model.dll
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.DBUtility.dll
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.Common.pdb
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.DAL.pdb
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.Model.pdb
+F:\同步文件夹\youkeweb\YouKe.BLL\bin\Debug\YouKe.DBUtility.pdb
+F:\同步文件夹\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.csprojResolveAssemblyReference.cache
+F:\同步文件夹\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.dll
+F:\同步文件夹\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.pdb
+F:\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.csprojResolveAssemblyReference.cache
+F:\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.dll
+F:\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.pdb
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.BLL.dll
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.BLL.pdb
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.Common.dll
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.DAL.dll
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.Model.dll
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.DBUtility.dll
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.Common.pdb
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.DAL.pdb
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.Model.pdb
+F:\youkeweb\YouKe.BLL\bin\Debug\YouKe.DBUtility.pdb
+F:\youkeweb\YouKe.BLL\bin\Debug\protobuf-net.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.csprojResolveAssemblyReference.cache
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.BLL\obj\Debug\YouKe.BLL.pdb

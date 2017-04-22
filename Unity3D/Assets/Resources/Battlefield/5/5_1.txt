@@ -1,0 +1,52 @@
+{"frames": {
+
+"hg_qian001_170.png":
+{
+	"frame": {"x":315,"y":89,"w":170,"h":299},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":299},
+	"sourceSize": {"w":170,"h":299}
+},
+"hg_qian005_450.png":
+{
+	"frame": {"x":2,"y":2,"w":449,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":449,"h":85},
+	"sourceSize": {"w":449,"h":85}
+},
+"hg_yuan001_618.png":
+{
+	"frame": {"x":2,"y":390,"w":618,"h":128},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":618,"h":128},
+	"sourceSize": {"w":618,"h":128}
+},
+"hg_yuan002_311.png":
+{
+	"frame": {"x":2,"y":89,"w":311,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":82},
+	"sourceSize": {"w":311,"h":82}
+},
+"hg_zhong001_80.png":
+{
+	"frame": {"x":132,"y":173,"w":80,"h":138},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":138},
+	"sourceSize": {"w":80,"h":138}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "5_1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:03a369200bb67cd6017163e34b0cdb07:2/2$"
+}
+}

@@ -1,0 +1,36 @@
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.DAL.dll
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.DAL.pdb
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.Common.dll
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.DBUtility.dll
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.Model.dll
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.Common.pdb
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.DBUtility.pdb
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\YouKe.Model.pdb
+F:\同步文件夹\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.csprojResolveAssemblyReference.cache
+F:\同步文件夹\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.dll
+F:\同步文件夹\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.pdb
+F:\同步文件夹\youkeweb\YouKe.DAL\bin\Release\LitJson.dll
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.DAL.dll
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.DAL.pdb
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.Common.dll
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.DBUtility.dll
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.Model.dll
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.Common.pdb
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.DBUtility.pdb
+F:\youkeweb\YouKe.DAL\bin\Release\YouKe.Model.pdb
+F:\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.csprojResolveAssemblyReference.cache
+F:\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.dll
+F:\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.pdb
+F:\youkeweb\YouKe.DAL\bin\Release\protobuf-net.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.DAL.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.DAL.pdb
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.Common.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.DBUtility.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.Model.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\protobuf-net.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.Common.pdb
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.DBUtility.pdb
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\bin\Release\YouKe.Model.pdb
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.csprojResolveAssemblyReference.cache
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.dll
+D:\002 UnityProject\BianshenBaZhugong\youkeweb3-13\youkeweb\YouKe.DAL\obj\Release\YouKe.DAL.pdb

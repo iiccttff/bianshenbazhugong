@@ -1,0 +1,11 @@
+F:\同步文件夹\youkeweb\YouKe.Common\bin\Debug\YouKe.Common.dll
+F:\同步文件夹\youkeweb\YouKe.Common\bin\Debug\YouKe.Common.pdb
+F:\同步文件夹\youkeweb\YouKe.Common\obj\Debug\YouKe.Common.dll
+F:\同步文件夹\youkeweb\YouKe.Common\obj\Debug\YouKe.Common.pdb
+F:\同步文件夹\youkeweb\YouKe.Common\obj\Debug\YouKe.Common.csprojResolveAssemblyReference.cache
+F:\youkeweb\YouKe.Common\obj\Debug\YouKe.Common.csprojResolveAssemblyReference.cache
+F:\youkeweb\YouKe.Common\obj\Debug\YouKe.Common.dll
+F:\youkeweb\YouKe.Common\bin\Debug\YouKe.Common.dll
+F:\youkeweb\YouKe.Common\bin\Debug\YouKe.Common.pdb
+F:\youkeweb\YouKe.Common\bin\Debug\protobuf-net.dll
+F:\youkeweb\YouKe.Common\obj\Debug\YouKe.Common.pdb

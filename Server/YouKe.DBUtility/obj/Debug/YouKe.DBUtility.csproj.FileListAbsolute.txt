@@ -1,0 +1,15 @@
+F:\同步文件夹\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.DBUtility.dll
+F:\同步文件夹\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.DBUtility.pdb
+F:\同步文件夹\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.Common.dll
+F:\同步文件夹\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.Common.pdb
+F:\同步文件夹\youkeweb\YouKe.DBUtility\obj\Debug\YouKe.DBUtility.csprojResolveAssemblyReference.cache
+F:\同步文件夹\youkeweb\YouKe.DBUtility\obj\Debug\YouKe.DBUtility.dll
+F:\同步文件夹\youkeweb\YouKe.DBUtility\obj\Debug\YouKe.DBUtility.pdb
+F:\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.DBUtility.dll
+F:\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.DBUtility.pdb
+F:\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.Common.dll
+F:\youkeweb\YouKe.DBUtility\bin\Debug\YouKe.Common.pdb
+F:\youkeweb\YouKe.DBUtility\obj\Debug\YouKe.DBUtility.csprojResolveAssemblyReference.cache
+F:\youkeweb\YouKe.DBUtility\obj\Debug\YouKe.DBUtility.dll
+F:\youkeweb\YouKe.DBUtility\obj\Debug\YouKe.DBUtility.pdb
+F:\youkeweb\YouKe.DBUtility\bin\Debug\protobuf-net.dll
