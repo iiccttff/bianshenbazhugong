@@ -1,0 +1,78 @@
+Time:2015/6/28 14:06:32-Redis write queue start init...
+
+
+Time:2015/6/28 14:06:32-Sql wait write queue start init...
+
+
+Time:2015/6/28 14:06:32-Sql write queue start init...
+
+
+Time:2015/6/28 14:07:45-Redis write queue start init...
+
+
+Time:2015/6/28 14:07:45-Sql wait write queue start init...
+
+
+Time:2015/6/28 14:07:45-Sql write queue start init...
+
+
+Time:2015/6/28 14:07:46-Trace>>The data:GameServer.Model.UserFriends has been loaded 7 from db.
+
+
+Time:2015/6/28 14:07:46-Trace>>The data:GameServer.Model.GameUser has been loaded 13 from db.
+
+
+Time:2015/6/28 14:07:46-Trace>>The data:GameServer.Model.UserFriends has been loaded 7
+
+
+Time:2015/6/28 14:22:25-Redis write queue start init...
+
+
+Time:2015/6/28 14:22:25-Sql wait write queue start init...
+
+
+Time:2015/6/28 14:22:25-Sql write queue start init...
+
+
+Time:2015/6/28 14:22:25-Trace>>The data:GameServer.Model.UserFriends has been loaded 7 from db.
+
+
+Time:2015/6/28 14:22:26-Trace>>The data:GameServer.Model.GameUser has been loaded 13 from db.
+
+
+Time:2015/6/28 14:22:26-Trace>>The data:GameServer.Model.UserFriends has been loaded 7
+
+
+Time:2015/6/28 14:41:10-Redis write queue start init...
+
+
+Time:2015/6/28 14:41:10-Sql wait write queue start init...
+
+
+Time:2015/6/28 14:41:10-Sql write queue start init...
+
+
+Time:2015/6/28 14:41:10-Trace>>The data:GameServer.Model.UserFriends has been loaded 7 from db.
+
+
+Time:2015/6/28 14:41:10-Trace>>The data:GameServer.Model.GameUser has been loaded 13 from db.
+
+
+Time:2015/6/28 14:41:11-Trace>>The data:GameServer.Model.UserFriends has been loaded 7
+
+
+Time:2015/6/28 14:42:40-Trace>>User 0 sessionIds_615830e1837d4d2da8dfecafe7d45795|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/28 14:46:40-Trace>>User 0 sessionIds_9d676b5eeff749b0be772f58e87d9b8e|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/28 14:57:40-Trace>>User 0 sessionIds_edbc29bc0cfc4159821ea01307b1ac8f|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/28 14:58:40-Trace>>User 0 sessionIds_a3cc8813a43c4c8d9e7daeb96327242b|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/28 14:59:40-Trace>>User 0 sessionIds_618617065b3e4468a502873c29496e68|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+

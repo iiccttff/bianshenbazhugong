@@ -1,0 +1,25 @@
+15:05:40 Clear expired cache end.
+15:16:00 Clear expired cache end.
+15:26:01 Clear expired cache end.
+15:30:18 Server is stopping, please wait.
+15:30:23 Server has stoped successfully!
+15:30:23 Server has canceled!
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+15:30:34 Server is starting...
+15:30:46 script compiled successfully.
+15:30:46 Start checking table schema, please wait.
+15:30:46 Check table schema successfully.
+15:30:47 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+15:30:48 Server has started successfully!
+# Server is listening...
+15:41:00 Clear expired cache end.
+15:51:00 Clear expired cache end.

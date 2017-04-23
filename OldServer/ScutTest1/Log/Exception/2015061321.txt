@@ -1,0 +1,30 @@
+Time:2015/6/13 21:17:13-Trace>>OnCheckSqlWaitSyncQueue error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.OnCheckSqlWaitSyncQueue(Object state)
+
+
+Time:2015/6/13 21:40:26-Trace>>OnCheckSqlWaitSyncQueue error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.OnCheckSqlWaitSyncQueue(Object state)
+
+
+Time:2015/6/13 21:41:52-Trace>>Action request GameServer.CsScript.Action.Action9101,GameServer.CsScript error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GameServer.CsScript.Action.Action9101.BuildPacket() 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9101.cs:行号 104
+   在 ZyGames.Framework.Game.Service.GameStruct.BinaryWriteResponse(BaseGameResponse response)
+   在 ZyGames.Framework.Game.Service.GameStruct.WriteResponse(BaseGameResponse response)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.Process(BaseStruct baseStruct, ActionGetter actionGetter, BaseGameResponse response)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.Request(String typeName, ActionGetter actionGetter, BaseGameResponse response)
+param:?d=MsgId%3d6%26Sid%3ds_a504b8f2bbdd483da13eb9c01e49c336%7c0%7c0%26Uid%3d1380014%26St%3d%26actionId%3d9101%26sign%3dbacf86f4daf8a2a301304d9cb1736671
+
+
+Time:2015/6/13 21:49:27-Trace>>RunMain error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GameServer.CsScript.Base.SystemGlobal.LoadUser() 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Base\SystemGlobal.cs:行号 47
+   在 GameServer.CsScript.Base.SystemGlobal.Run() 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Base\SystemGlobal.cs:行号 31
+   在 Game.Script.MainClass.OnStartAffer() 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\MainClass.cs:行号 42
+   在 ZyGames.Framework.Game.Contract.GameBaseHost.ReStart()
+   在 ZyGames.Framework.Game.Contract.GameBaseHost.Start(String[] args)
+   在 ZyGames.Framework.Game.Contract.GameSocketHost.Start(String[] args)
+   在 CallSite.Target(Closure , CallSite , Object , String[] )
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid2[T0,T1](CallSite site, T0 arg0, T1 arg1)
+   在 ZyGames.Framework.Script.ScriptEngines.RunMainProgram(String[] args)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.<RunAsync>d__0.MoveNext()
+
+

@@ -1,0 +1,57 @@
+Time:2015/6/6 13:37:56-Trace>>Get redis "GameServer.Model.GameUser" key:"GameServer.Model.GameUser_1380007" cache error:System.Exception: ProtoBuf deserialize type:GameServer.Model.GameUser error ---> System.InvalidOperationException: Duplicate field-number detected; 10 on: GameServer.Model.GameUser
+   在 ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory)
+   在 ProtoBuf.Meta.MetaType.BuildSerializer()
+   在 ProtoBuf.Meta.MetaType.get_Serializer()
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.TryGetEntity[T](String redisKey, SchemaTable table, List`1& list)
+
+
+Time:2015/6/6 13:39:57-Trace>>Get redis "GameServer.Model.GameUser" key:"GameServer.Model.GameUser_1380007" cache error:System.Exception: ProtoBuf deserialize type:GameServer.Model.GameUser error ---> System.InvalidOperationException: Duplicate field-number detected; 10 on: GameServer.Model.GameUser
+   在 ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory)
+   在 ProtoBuf.Meta.MetaType.BuildSerializer()
+   在 ProtoBuf.Meta.MetaType.get_Serializer()
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.TryGetEntity[T](String redisKey, SchemaTable table, List`1& list)
+
+
+Time:2015/6/6 13:42:36-Trace>>FindEntityFromRedis GameServer.Model.GameUser error:System.Exception: ProtoBuf deserialize type:GameServer.Model.GameUser error ---> System.InvalidOperationException: Duplicate field-number detected; 10 on: GameServer.Model.GameUser
+   在 ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory)
+   在 ProtoBuf.Meta.MetaType.BuildSerializer()
+   在 ProtoBuf.Meta.MetaType.get_Serializer()
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+
+Time:2015/6/6 13:47:47-Trace>>Action1005 error:Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: “GameServer.CsScript.Locale.SimplifiedLanguage”未包含“St1005_UserNameNotEnough”的定义
+   在 CallSite.Target(Closure , CallSite , Object )
+   在 System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   在 GameServer.CsScript.Action.Action1005.CreateUserRole(IUser& user) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action1005.cs:行号 47
+   在 ZyGames.Framework.Game.Contract.Action.RegisterAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d9%26Sid%3ds_a52b69a1bda74f3ca87f8cca4812ec23%7c0%7c0%26Uid%3d1380009%26St%3d%26actionId%3d1005%26UserName%3d%25e8%258b%258d%25e8%2580%2581%25e6%25b9%25bf%26Sex%3d0%26HeadID%3dhead.gif%26RetailID%3d0000%26Pid%3dZ10004%26MobileType%3d1%26ScreenX%3d860%26ScreenY%3d460%26ClientAppVersion%3d1.0%26GameType%3d1%26ServerID%3d1%26sign%3d381701a72941eec11275237d1a28e09c
+
+

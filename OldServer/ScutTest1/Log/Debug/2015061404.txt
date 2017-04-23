@@ -1,0 +1,198 @@
+Time:2015/6/14 4:00:00-Redis write queue start init...
+
+
+Time:2015/6/14 4:00:00-Sql wait write queue start init...
+
+
+Time:2015/6/14 4:00:00-Sql write queue start init...
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380026 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380025 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380024 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380023 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380022 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380021 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380020 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380019 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380018 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380017 has been loaded 1
+
+
+Time:2015/6/14 4:00:00-Trace>>The data:GameServer.Model.GameUser_1380016 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Redis write queue start init...
+
+
+Time:2015/6/14 4:01:36-Sql wait write queue start init...
+
+
+Time:2015/6/14 4:01:36-Sql write queue start init...
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380026 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380025 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380024 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380023 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380022 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380021 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380020 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380019 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380018 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380017 has been loaded 1
+
+
+Time:2015/6/14 4:01:36-Trace>>The data:GameServer.Model.GameUser_1380016 has been loaded 1
+
+
+Time:2015/6/14 4:03:07-Redis write queue start init...
+
+
+Time:2015/6/14 4:03:07-Sql wait write queue start init...
+
+
+Time:2015/6/14 4:03:07-Sql write queue start init...
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380026 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380025 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380024 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380023 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380022 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380021 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380020 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380019 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380018 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380017 has been loaded 1
+
+
+Time:2015/6/14 4:03:08-Trace>>The data:GameServer.Model.GameUser_1380016 has been loaded 1
+
+
+Time:2015/6/14 4:05:17-Trace>>User 0 sessionIds_babe6b62029e4e64845b956ebf193ab4|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 4:05:42-Redis write queue start init...
+
+
+Time:2015/6/14 4:05:42-Sql wait write queue start init...
+
+
+Time:2015/6/14 4:05:42-Sql write queue start init...
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380026 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380025 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380024 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380023 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380022 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380021 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380020 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380019 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380018 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380017 has been loaded 1
+
+
+Time:2015/6/14 4:05:43-Trace>>The data:GameServer.Model.GameUser_1380016 has been loaded 1
+
+
+Time:2015/6/14 4:06:49-Trace>>User 0 sessionIds_aedf65ce9b4e4e818b91717a9c10c36d|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+

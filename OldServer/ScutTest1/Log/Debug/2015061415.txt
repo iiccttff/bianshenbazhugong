@@ -1,0 +1,96 @@
+Time:2015/6/14 15:05:55-Trace>>User 0 sessionIds_b4e5bc277a1345d081b35c1ef595b718|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:06:55-Trace>>User 0 sessionIds_28b952550c09479fa8c1895cd5c39578|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:07:55-Trace>>User 0 sessionIds_653eda23c9144cdbbaaef6dd486b213e|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:09:55-Trace>>User 0 sessionIds_26e059bfe4714f8dac3ea831f943cf97|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:09:55-Trace>>User 0 sessionIds_d72a9a4fef9541368780c803c77e801d|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:10:55-Trace>>User 0 sessionIds_4d1e614a5c264997a53bc79a98176aaf|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:11:55-Trace>>User 0 sessionIds_e85f3792a6d246bca942bb95d598c820|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:12:55-Trace>>User 0 sessionIds_dc5491bfcf2d40a09ea66c2e0fba3baf|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:13:55-Trace>>User 0 sessionIds_a727e0d1cbf44d81a6f4a2d0cc91b650|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:24:55-Trace>>User 0 sessionIds_31478e909d014e9780e508982079896a|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:25:55-Trace>>User 0 sessionIds_a4245bcfbcb34e978d3edcf9d4af03e1|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:27:55-Trace>>User 0 sessionIds_ee5da90a919d4dae8dc29ac910dd59d0|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:27:55-Trace>>User 0 sessionIds_7378afab2b8c4ba69923ed1d4c16bb34|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:29:55-Trace>>User 0 sessionIds_e3857d52a78349f3be3f56b6ec6def0d|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:30:46-Redis write queue start init...
+
+
+Time:2015/6/14 15:30:46-Sql wait write queue start init...
+
+
+Time:2015/6/14 15:30:46-Sql write queue start init...
+
+
+Time:2015/6/14 15:30:47-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 15:30:47-Trace>>The data:GameServer.Model.UserFriends has been loaded 32
+
+
+Time:2015/6/14 15:30:47-Trace>>The data:GameServer.Model.GameUser_1380026 has been loaded 1
+
+
+Time:2015/6/14 15:30:47-Trace>>The data:GameServer.Model.GameUser_1380025 has been loaded 1
+
+
+Time:2015/6/14 15:30:47-Trace>>The data:GameServer.Model.GameUser_1380024 has been loaded 1
+
+
+Time:2015/6/14 15:30:47-Trace>>The data:GameServer.Model.GameUser_1380023 has been loaded 1
+
+
+Time:2015/6/14 15:30:48-Trace>>The data:GameServer.Model.GameUser_1380022 has been loaded 1
+
+
+Time:2015/6/14 15:30:48-Trace>>The data:GameServer.Model.GameUser_1380021 has been loaded 1
+
+
+Time:2015/6/14 15:30:48-Trace>>The data:GameServer.Model.GameUser_1380020 has been loaded 1
+
+
+Time:2015/6/14 15:30:48-Trace>>The data:GameServer.Model.GameUser_1380019 has been loaded 1
+
+
+Time:2015/6/14 15:30:48-Trace>>The data:GameServer.Model.GameUser_1380018 has been loaded 1
+
+
+Time:2015/6/14 15:30:48-Trace>>The data:GameServer.Model.GameUser_1380017 has been loaded 1
+
+
+Time:2015/6/14 15:30:48-Trace>>The data:GameServer.Model.GameUser_1380016 has been loaded 1
+
+
+Time:2015/6/14 15:36:05-Trace>>User 0 sessionIds_61750d62f8c949539f61f8cc69f6eaa5|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/14 15:40:05-Trace>>User 0 sessionIds_d16b7e305c16461d892a985280388629|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+

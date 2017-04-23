@@ -1,0 +1,20 @@
+Time:2015/6/13 16:00:03-Trace>>Action9101 error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GameServer.CsScript.Action.Action9101.<TakeAction>b__1(UserFriends x, UserFriends y) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9101.cs:行号 93
+   在 ZyGames.Framework.Common.MathUtils.DoQuickSort[T](List`1 list, Int32 low, Int32 high, Comparison`1 compareTo)
+   在 ZyGames.Framework.Common.MathUtils.QuickSort[T](List`1 list, Comparison`1 comparison)
+   在 ZyGames.Framework.Common.ObjectExtend.QuickSort[T](List`1 list, Comparison`1 comparison)
+   在 GameServer.CsScript.Action.Action9101.TakeAction() 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9101.cs:行号 87
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d6%26Sid%3ds_4b96616ac4bb45b2b50e8ddba58b36f7%7c0%7c0%26Uid%3d1380014%26St%3d%26actionId%3d9101%26sign%3d8e819393e91cf6f2bab1ce37285d7437
+
+
+Time:2015/6/13 16:02:57-Trace>>Action9101 error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GameServer.CsScript.Action.Action9101.<TakeAction>b__1(UserFriends x, UserFriends y) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9101.cs:行号 95
+   在 ZyGames.Framework.Common.MathUtils.DoQuickSort[T](List`1 list, Int32 low, Int32 high, Comparison`1 compareTo)
+   在 ZyGames.Framework.Common.MathUtils.QuickSort[T](List`1 list, Comparison`1 comparison)
+   在 ZyGames.Framework.Common.ObjectExtend.QuickSort[T](List`1 list, Comparison`1 comparison)
+   在 GameServer.CsScript.Action.Action9101.TakeAction() 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9101.cs:行号 87
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d6%26Sid%3ds_0ec9a8d5f6d24810a71fe76ebb9f705a%7c0%7c0%26Uid%3d1380014%26St%3d%26actionId%3d9101%26sign%3d4f79d09c391da27e730710ffcdee1e37
+
+

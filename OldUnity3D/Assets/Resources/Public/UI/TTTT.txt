@@ -1,0 +1,52 @@
+{"frames": {
+
+"mailbox_maillist_letter_announce_icon.png":
+{
+	"frame": {"x":162,"y":2,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78}
+},
+"mailbox_maillist_letter_icon.png":
+{
+	"frame": {"x":82,"y":2,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78}
+},
+"mailbox_maillist_letter_open_icon.png":
+{
+	"frame": {"x":2,"y":162,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78}
+},
+"mailbox_maillist_letter_open_victory_icon.png":
+{
+	"frame": {"x":2,"y":82,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78}
+},
+"mailbox_maillist_letter_victory_icon.png":
+{
+	"frame": {"x":2,"y":2,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "TTTT.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:96354930b4fd5a8c0daa07ed12b0324d$"
+}
+}

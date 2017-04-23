@@ -1,0 +1,103 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ScutTest1.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ScutTest1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\IronPython.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\IronPython.Modules.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\KopiLua.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\Microsoft.Dynamic.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\Microsoft.Scripting.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.Pdb.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\NLog.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\NLua.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\protobuf-net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ScutSecurity.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Common.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Redis.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Text.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Common.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Game.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\obj\Debug\ScutTest1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\obj\Debug\ScutTest1.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ScutTest1\ScutTest1\obj\Debug\ScutTest1.pdb
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ScutTest1.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ScutTest1.pdb
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\IronPython.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\IronPython.Modules.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\KopiLua.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Microsoft.Dynamic.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Microsoft.Scripting.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.Pdb.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\MySql.Data.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Newtonsoft.Json.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\NLog.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\NLua.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\protobuf-net.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ScutSecurity.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Common.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Interfaces.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Redis.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Text.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Common.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.dll
+G:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Game.dll
+G:\ServerProject\ScutTest1\ScutTest1\obj\Debug\ScutTest1.csprojResolveAssemblyReference.cache
+G:\ServerProject\ScutTest1\ScutTest1\obj\Debug\ScutTest1.dll
+G:\ServerProject\ScutTest1\ScutTest1\obj\Debug\ScutTest1.pdb
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ScutTest1.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ScutTest1.pdb
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\IronPython.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\IronPython.Modules.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\KopiLua.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Microsoft.Dynamic.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Microsoft.Scripting.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.Pdb.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\MySql.Data.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\Newtonsoft.Json.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\NLog.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\NLua.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\protobuf-net.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ScutSecurity.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Common.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Interfaces.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Redis.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Text.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Common.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.dll
+H:\ServerProject\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Game.dll
+H:\ServerProject\ScutTest1\ScutTest1\obj\Debug\ScutTest1.csprojResolveAssemblyReference.cache
+H:\ServerProject\ScutTest1\ScutTest1\obj\Debug\ScutTest1.dll
+H:\ServerProject\ScutTest1\ScutTest1\obj\Debug\ScutTest1.pdb
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ScutTest1.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ScutTest1.pdb
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\IronPython.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\IronPython.Modules.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\KopiLua.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\Microsoft.Dynamic.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\Microsoft.Scripting.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\Mono.Cecil.Pdb.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\Newtonsoft.Json.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\NLog.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\NLua.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\protobuf-net.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ScutSecurity.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Common.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Interfaces.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Redis.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ServiceStack.Text.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Common.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\bin\Debug\ZyGames.Framework.Game.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\obj\Debug\ScutTest1.csprojResolveAssemblyReference.cache
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\obj\Debug\ScutTest1.dll
+D:\002 UnityProject\BianshenBaZhugong\ScutTest1\ScutTest1\obj\Debug\ScutTest1.pdb

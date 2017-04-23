@@ -1,0 +1,12 @@
+Time:2015/6/17 20:31:11-Trace>>OnEntitySyncQueue execute count:32, success:0/total 32, fail:0 start...
+
+
+Time:2015/6/17 20:37:04-Trace>>Action-1004 Uid:1380028 access timeout 1625.0794/500ms.
+
+
+Time:2015/6/17 20:37:04-Trace>>OnEntitySyncQueue execute count:1, success:32/total 33, fail:0 start...
+
+
+Time:2015/6/17 20:37:51-Trace>>OnEntitySyncQueue execute count:1, success:33/total 34, fail:0 start...
+
+

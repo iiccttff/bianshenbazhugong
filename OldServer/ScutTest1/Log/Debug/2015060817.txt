@@ -1,0 +1,39 @@
+Time:2015/6/8 17:44:09-Redis write queue start init...
+
+
+Time:2015/6/8 17:44:09-Sql wait write queue start init...
+
+
+Time:2015/6/8 17:44:09-Sql write queue start init...
+
+
+Time:2015/6/8 17:46:08-Redis write queue start init...
+
+
+Time:2015/6/8 17:46:08-Sql wait write queue start init...
+
+
+Time:2015/6/8 17:46:08-Sql write queue start init...
+
+
+Time:2015/6/8 17:52:38-Redis write queue start init...
+
+
+Time:2015/6/8 17:52:38-Sql wait write queue start init...
+
+
+Time:2015/6/8 17:52:38-Sql write queue start init...
+
+
+Time:2015/6/8 17:57:27-Redis write queue start init...
+
+
+Time:2015/6/8 17:57:27-Sql wait write queue start init...
+
+
+Time:2015/6/8 17:57:27-Sql write queue start init...
+
+
+Time:2015/6/8 17:58:07-Trace>>The data:GameServer.Model.GameUser_1380009 has been loaded 1
+
+

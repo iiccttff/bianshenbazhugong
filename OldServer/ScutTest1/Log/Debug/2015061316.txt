@@ -1,0 +1,27 @@
+Time:2015/6/13 16:00:03-Trace>>The readonly-data:GameServer.Model.UserFriends has been loaded 3
+
+
+Time:2015/6/13 16:00:03-Trace>>The data:GameServer.Model.GameUser_1380012 has been loaded 1
+
+
+Time:2015/6/13 16:02:47-Redis write queue start init...
+
+
+Time:2015/6/13 16:02:47-Sql wait write queue start init...
+
+
+Time:2015/6/13 16:02:47-Sql write queue start init...
+
+
+Time:2015/6/13 16:02:52-Trace>>The data:GameServer.Model.GameUser_1380014 has been loaded 1
+
+
+Time:2015/6/13 16:02:56-Trace>>The readonly-data:GameServer.Model.UserFriends has been loaded 3
+
+
+Time:2015/6/13 16:02:57-Trace>>The readonly-data:GameServer.Model.UserProInfo has been loaded 11
+
+
+Time:2015/6/13 16:02:57-Trace>>The data:GameServer.Model.GameUser_1380012 has been loaded 1
+
+

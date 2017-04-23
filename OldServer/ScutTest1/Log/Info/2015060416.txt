@@ -1,0 +1,39 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:00:54 Server is starting...
+16:01:00 script compiled successfully.
+16:01:00 Start checking table schema, please wait.
+16:01:00 Check table schema successfully.
+16:01:00 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+16:01:00 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:02:01 Server is starting...
+16:02:06 script compiled successfully.
+16:02:06 Start checking table schema, please wait.
+16:02:06 Check table schema successfully.
+16:02:06 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+16:02:06 Server has started successfully!
+# Server is listening...
+16:12:20 Clear expired cache end.
+16:22:40 Clear expired cache end.
+16:33:00 Clear expired cache end.
+16:43:20 Clear expired cache end.
+16:53:40 Clear expired cache end.

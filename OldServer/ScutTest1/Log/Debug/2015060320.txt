@@ -1,0 +1,9 @@
+Time:2015/6/3 20:00:54-Redis write queue start init...
+
+
+Time:2015/6/3 20:00:54-Sql wait write queue start init...
+
+
+Time:2015/6/3 20:00:54-Sql write queue start init...
+
+

@@ -1,0 +1,54 @@
+Time:2017/4/23 12:30:10-Redis write queue start init...
+
+
+Time:2017/4/23 12:30:10-Sql wait write queue start init...
+
+
+Time:2017/4/23 12:30:10-Sql write queue start init...
+
+
+Time:2017/4/23 12:30:11-Trace>>The data:GameServer.Model.UserFriends has been loaded 3 from db.
+
+
+Time:2017/4/23 12:30:11-Trace>>The data:GameServer.Model.GameUser has been loaded 12 from db.
+
+
+Time:2017/4/23 12:30:11-Trace>>The data:GameServer.Model.UserFriends has been loaded 3
+
+
+Time:2017/4/23 12:40:21-Redis write queue start init...
+
+
+Time:2017/4/23 12:40:21-Sql wait write queue start init...
+
+
+Time:2017/4/23 12:40:21-Sql write queue start init...
+
+
+Time:2017/4/23 12:40:21-Trace>>The data:GameServer.Model.UserFriends has been loaded 3 from db.
+
+
+Time:2017/4/23 12:40:22-Trace>>The data:GameServer.Model.GameUser has been loaded 12 from db.
+
+
+Time:2017/4/23 12:40:22-Trace>>The data:GameServer.Model.UserFriends has been loaded 3
+
+
+Time:2017/4/23 12:43:07-Redis write queue start init...
+
+
+Time:2017/4/23 12:43:07-Sql wait write queue start init...
+
+
+Time:2017/4/23 12:43:07-Sql write queue start init...
+
+
+Time:2017/4/23 12:43:08-Trace>>The data:GameServer.Model.UserFriends has been loaded 3 from db.
+
+
+Time:2017/4/23 12:43:08-Trace>>The data:GameServer.Model.GameUser has been loaded 12 from db.
+
+
+Time:2017/4/23 12:43:08-Trace>>The data:GameServer.Model.UserFriends has been loaded 3
+
+

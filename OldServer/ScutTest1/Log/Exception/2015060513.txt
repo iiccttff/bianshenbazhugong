@@ -1,0 +1,14 @@
+Time:2015/6/5 13:31:25-Trace>>SendToClient action:1008 userId:1380004 error:System.NotSupportedException: Not found script action1008, please check script path setting.
+   在 ZyGames.Framework.Game.Contract.ActionFactory.FindRoute(String typeExpression, ActionGetter actionGetter, Int32 actionId)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.ProcessActionResponse(IActionDispatcher actionDispatcher, Int32 actionId, ActionGetter actionGetter)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.GetActionResponse(IActionDispatcher actionDispatcher, Int32 actionId, GameSession session, RequestPackage package)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.<SendAction>d__69.MoveNext()
+
+
+Time:2015/6/5 13:33:15-Trace>>SendToClient action:1008 userId:1380004 error:System.NotSupportedException: Not found script action1008, please check script path setting.
+   在 ZyGames.Framework.Game.Contract.ActionFactory.FindRoute(String typeExpression, ActionGetter actionGetter, Int32 actionId)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.ProcessActionResponse(IActionDispatcher actionDispatcher, Int32 actionId, ActionGetter actionGetter)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.GetActionResponse(IActionDispatcher actionDispatcher, Int32 actionId, GameSession session, RequestPackage package)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.<SendAction>d__69.MoveNext()
+
+

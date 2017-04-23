@@ -1,0 +1,22 @@
+Time:2015/6/4 10:02:34-Trace>>Action1002 error:System.TypeInitializationException: “ZyGames.Framework.Game.Sns.ConnectManager”的类型初始值设定项引发异常。 ---> System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Data.DbConnectionProvider.CreateDbProvider(String connectKey)
+   在 ZyGames.Framework.Game.Sns.ConnectManager..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Game.Sns.ConnectManager.get_Provider()
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.CheckDevice(String device)
+   在 ZyGames.Framework.Game.Sns.SnsManager.GetRegPassport(String imei)
+   在 GameServer.CsScript.Action.Action1002.TakeAction() 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action1002.cs:行号 97.
+?d=MsgId%3d1%26Sid%3d%26Uid%3d0%26St%3d%26actionId%3d1002%26MobileType%3d1%26GameType%3d1%26RetailID%3d0000%26ClientAppVersion%3d1.0%26ScreenX%3d860%26ScreenY%3d460%26DeviceID%3d00-E1-4C-36-F5-C8%26ServerID%3d1%26sign%3daeba1ce28592d794a4b0e3ba1eeb967a
+
+
+Time:2015/6/4 10:05:26-Trace>>Action1002 error:System.TypeInitializationException: “ZyGames.Framework.Game.Sns.ConnectManager”的类型初始值设定项引发异常。 ---> System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Data.DbConnectionProvider.CreateDbProvider(String connectKey)
+   在 ZyGames.Framework.Game.Sns.ConnectManager..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Game.Sns.ConnectManager.get_Provider()
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.CheckDevice(String device)
+   在 ZyGames.Framework.Game.Sns.SnsManager.GetRegPassport(String imei)
+   在 GameServer.CsScript.Action.Action1002.TakeAction() 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action1002.cs:行号 97.
+?d=MsgId%3d1%26Sid%3d%26Uid%3d0%26St%3d%26actionId%3d1002%26MobileType%3d1%26GameType%3d1%26RetailID%3d0000%26ClientAppVersion%3d1.0%26ScreenX%3d860%26ScreenY%3d460%26DeviceID%3d00-E1-4C-36-F5-C8%26ServerID%3d1%26sign%3daeba1ce28592d794a4b0e3ba1eeb967a
+
+

@@ -1,0 +1,21 @@
+Time:2015/6/5 13:29:31-Redis write queue start init...
+
+
+Time:2015/6/5 13:29:31-Sql wait write queue start init...
+
+
+Time:2015/6/5 13:29:31-Sql write queue start init...
+
+
+Time:2015/6/5 13:31:06-Redis write queue start init...
+
+
+Time:2015/6/5 13:31:06-Sql wait write queue start init...
+
+
+Time:2015/6/5 13:31:06-Sql write queue start init...
+
+
+Time:2015/6/5 13:33:24-Trace>>User 0 sessionIds_ba448c2a5b4243d2ab6cd6c4ec7d265d|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+

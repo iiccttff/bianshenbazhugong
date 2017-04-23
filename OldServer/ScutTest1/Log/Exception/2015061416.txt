@@ -1,0 +1,26 @@
+Time:2015/6/14 16:40:34-Trace>>Action9102 error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GameServer.CsScript.Action.Action9102.<>c__DisplayClass1.<TakeAction>b__0(String personId, String key, GameUser user) 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 87
+   在 ZyGames.Framework.Cache.Generic.CacheCollection.Foreach[T](Func`4 func, String groupKey)
+   在 ZyGames.Framework.Cache.Generic.EntityContainer`1.<>c__DisplayClassa.<ForeachGroup>b__9(String key, CacheItemSet itemSet)
+   在 ZyGames.Framework.Cache.Generic.CacheCollection.Foreach[T](Func`3 func)
+   在 ZyGames.Framework.Cache.Generic.EntityContainer`1.ForeachGroup(Func`4 func)
+   在 ZyGames.Framework.Cache.Generic.BaseCacheStruct`1.ForeachGroup(Func`4 func)
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct`1.Foreach(Func`4 func)
+   在 GameServer.CsScript.Action.Action9102.TakeAction() 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 81
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d7%26Sid%3ds_6391ab4f547e4e12ba51ac160d40467a%7c0%7c0%26Uid%3d1380027%26St%3d%26actionId%3d9102%26sign%3d442705424a457a39190e72fd720e45c7
+
+
+Time:2015/6/14 16:43:34-Trace>>Action9102 error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GameServer.CsScript.Action.Action9102.<>c__DisplayClass1.<TakeAction>b__0(String personId, String key, GameUser user) 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 87
+   在 ZyGames.Framework.Cache.Generic.CacheCollection.Foreach[T](Func`4 func, String groupKey)
+   在 ZyGames.Framework.Cache.Generic.EntityContainer`1.<>c__DisplayClassa.<ForeachGroup>b__9(String key, CacheItemSet itemSet)
+   在 ZyGames.Framework.Cache.Generic.CacheCollection.Foreach[T](Func`3 func)
+   在 ZyGames.Framework.Cache.Generic.EntityContainer`1.ForeachGroup(Func`4 func)
+   在 ZyGames.Framework.Cache.Generic.BaseCacheStruct`1.ForeachGroup(Func`4 func)
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct`1.Foreach(Func`4 func)
+   在 GameServer.CsScript.Action.Action9102.TakeAction() 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 81
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d7%26Sid%3ds_b358823b9a444d1c922eb5d9ead29e9b%7c0%7c0%26Uid%3d1380026%26St%3d%26actionId%3d9102%26sign%3d3d69a7f831db002aeb1e6ee25a255309
+
+

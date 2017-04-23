@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaPai.CSharp", "KaPai.CSharp.csproj", "{DB6C3614-8EDE-55F1-E9AD-B2013AFC1315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaPai.CSharp.Editor", "KaPai.CSharp.Editor.csproj", "{767CA27D-D16F-0873-845F-E371078D7898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6C3614-8EDE-55F1-E9AD-B2013AFC1315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6C3614-8EDE-55F1-E9AD-B2013AFC1315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6C3614-8EDE-55F1-E9AD-B2013AFC1315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6C3614-8EDE-55F1-E9AD-B2013AFC1315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767CA27D-D16F-0873-845F-E371078D7898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767CA27D-D16F-0873-845F-E371078D7898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767CA27D-D16F-0873-845F-E371078D7898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767CA27D-D16F-0873-845F-E371078D7898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

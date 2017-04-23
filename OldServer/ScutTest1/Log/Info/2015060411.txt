@@ -1,0 +1,20 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+11:02:41 Server is starting...
+11:02:47 script compiled successfully.
+11:02:47 Start checking table schema, please wait.
+11:02:47 Check table schema successfully.
+11:02:47 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+11:02:47 Server has started successfully!
+# Server is listening...
+11:02:53 Server is stopping, please wait.
+11:02:59 Server has stoped successfully!
+11:02:59 Server has canceled!

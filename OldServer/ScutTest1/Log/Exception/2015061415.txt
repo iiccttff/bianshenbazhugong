@@ -1,0 +1,21 @@
+Time:2015/6/14 15:29:45-Trace>>Action9102 error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 GameServer.CsScript.Action.Action9102.<>c__DisplayClass1.<TakeAction>b__0(String personId, String key, GameUser user) 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 87
+   在 ZyGames.Framework.Cache.Generic.CacheCollection.Foreach[T](Func`4 func, String groupKey)
+   在 ZyGames.Framework.Cache.Generic.EntityContainer`1.<>c__DisplayClassa.<ForeachGroup>b__9(String key, CacheItemSet itemSet)
+   在 ZyGames.Framework.Cache.Generic.CacheCollection.Foreach[T](Func`3 func)
+   在 ZyGames.Framework.Cache.Generic.EntityContainer`1.ForeachGroup(Func`4 func)
+   在 ZyGames.Framework.Cache.Generic.BaseCacheStruct`1.ForeachGroup(Func`4 func)
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct`1.Foreach(Func`4 func)
+   在 GameServer.CsScript.Action.Action9102.TakeAction() 位置 h:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 81
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3d7%26Sid%3ds_765420f7879b46c5a5cc2ede6e73f030%7c0%7c0%26Uid%3d1380026%26St%3d%26actionId%3d9102%26sign%3daa46d25acf20cd354725241f34f7052a
+
+
+Time:2015/6/14 15:30:47-Trace>>OnCheckSqlWaitSyncQueue error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.OnCheckSqlWaitSyncQueue(Object state)
+
+
+Time:2015/6/14 15:30:47-Trace>>OnCheckSqlWaitSyncQueue error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.OnCheckSqlWaitSyncQueue(Object state)
+
+

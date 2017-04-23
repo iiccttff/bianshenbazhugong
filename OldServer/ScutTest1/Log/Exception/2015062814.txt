@@ -1,0 +1,57 @@
+Time:2015/6/28 14:04:41-Trace>>OnInit error:System.Exception: Redis server is using "192.168.1.101" game server, it's path:H:\ServerProject\ScutTest1\ScutTest1\
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<InitRedisInfo>b__0(RedisClient cli)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/6/28 14:05:38-Trace>>OnInit error:System.Exception: Redis server is using "192.168.1.101" game server, it's path:H:\ServerProject\ScutTest1\ScutTest1\
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<InitRedisInfo>b__0(RedisClient cli)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<>c__DisplayClass12.<ProcessTrans>b__f()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String watchKeys, Func`2 processFunc, Action`1 transFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(RedisPoolSetting setting, ICacheSerializer serializer)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2015/6/28 14:07:46-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380022-1380026 faild object is null.
+
+
+Time:2015/6/28 14:07:46-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380026-1380022 faild object is null.
+
+
+Time:2015/6/28 14:07:46-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380021-1380026 faild object is null.
+
+
+Time:2015/6/28 14:07:46-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380020-1380026 faild object is null.
+
+
+Time:2015/6/28 14:07:46-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380025-1380026 faild object is null.
+
+
+Time:2015/6/28 14:07:46-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380028-1380026 faild object is null.
+
+
+Time:2015/6/28 14:07:46-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380019-1380026 faild object is null.
+
+
+Time:2015/6/28 14:22:26-Trace>>EntitySync queue key GameServer.Model.GameUser_1380016|1380016 faild object is null.
+
+
+Time:2015/6/28 14:41:10-Trace>>EntitySync queue key GameServer.Model.UserFriends_10000|1380022-1380026 faild object is null.
+
+
+Time:2015/6/28 14:41:11-Trace>>EntitySync queue key GameServer.Model.GameUser_1380016|1380016 faild object is null.
+
+

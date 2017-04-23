@@ -1,0 +1,184 @@
+Time:2015/6/9 11:06:06-Trace>>Action9102 error:System.NullReferenceException: Not found entity GameUser personalId:0.
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct.Get[T](String personalId, Boolean allowNull, Object[] keys)
+   在 GameServer.CsScript.Action.Action9102.TakeAction() 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 76
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3D0%26Sid%3D%26Uid%3D1380010%26ActionID%3D9102%26St%3D%26PageIndex%3D1%26PageSize%3D10%26sign%3D
+
+
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:33527 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:33529 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:33534 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:33535 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:33537 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+Time:2015/6/9 11:16:35-Trace>>Received to Host:127.0.0.1:34036 error:System.ArgumentException: "http://scut.xiaobao1993.com/" converted to type int fail.
+   在 ZyGames.Framework.Common.MathUtils.ToInt(Object value)
+   在 ZyGames.Framework.Common.ObjectExtend.ToInt(Object value)
+   在 ZyGames.Framework.Game.Contract.PackageReader.TryGetParam(String name, Int32& value)
+   在 ZyGames.Framework.Game.Contract.ScutActionDispatcher.TryBuildPackage(PackageReader packageReader, RequestPackage& package)
+   在 ZyGames.Framework.Game.Contract.ScutActionDispatcher.TryDecodePackage(ConnectionEventArgs e, RequestPackage& package)
+   在 ZyGames.Framework.Game.Contract.GameSocketHost.socketLintener_DataReceived(Object sender, ConnectionEventArgs e)
+
+
+Time:2015/6/9 11:16:42-Trace>>Received to Host:127.0.0.1:34037 error:System.ArgumentException: "http://scut.xiaobao1993.com/" converted to type int fail.
+   在 ZyGames.Framework.Common.MathUtils.ToInt(Object value)
+   在 ZyGames.Framework.Common.ObjectExtend.ToInt(Object value)
+   在 ZyGames.Framework.Game.Contract.PackageReader.TryGetParam(String name, Int32& value)
+   在 ZyGames.Framework.Game.Contract.ScutActionDispatcher.TryBuildPackage(PackageReader packageReader, RequestPackage& package)
+   在 ZyGames.Framework.Game.Contract.ScutActionDispatcher.TryDecodePackage(ConnectionEventArgs e, RequestPackage& package)
+   在 ZyGames.Framework.Game.Contract.GameSocketHost.socketLintener_DataReceived(Object sender, ConnectionEventArgs e)
+
+
+Time:2015/6/9 11:16:43-Trace>>Received to Host:127.0.0.1:34039 error:System.ArgumentException: "http://scut.xiaobao1993.com/" converted to type int fail.
+   在 ZyGames.Framework.Common.MathUtils.ToInt(Object value)
+   在 ZyGames.Framework.Common.ObjectExtend.ToInt(Object value)
+   在 ZyGames.Framework.Game.Contract.PackageReader.TryGetParam(String name, Int32& value)
+   在 ZyGames.Framework.Game.Contract.ScutActionDispatcher.TryBuildPackage(PackageReader packageReader, RequestPackage& package)
+   在 ZyGames.Framework.Game.Contract.ScutActionDispatcher.TryDecodePackage(ConnectionEventArgs e, RequestPackage& package)
+   在 ZyGames.Framework.Game.Contract.GameSocketHost.socketLintener_DataReceived(Object sender, ConnectionEventArgs e)
+
+
+Time:2015/6/9 11:17:00-Trace>>Action9102 error:System.NullReferenceException: Not found entity GameUser personalId:0.
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct.Get[T](String personalId, Boolean allowNull, Object[] keys)
+   在 GameServer.CsScript.Action.Action9102.TakeAction() 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 76
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3D1%26Sid%3D%26Uid%3D1380010%26ActionID%3D9102%26St%3D%26PageIndex%3D1%26PageSize%3D10%26sign%3D
+
+
+Time:2015/6/9 11:17:11-Trace>>Action9102 error:System.NullReferenceException: Not found entity GameUser personalId:0.
+   在 ZyGames.Framework.Cache.Generic.PersonalCacheStruct.Get[T](String personalId, Boolean allowNull, Object[] keys)
+   在 GameServer.CsScript.Action.Action9102.TakeAction() 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\CsScript\Action\Action9102.cs:行号 76
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction().
+?d=MsgId%3D1%26Sid%3D%26Uid%3D1380010%26ActionID%3D9102%26St%3D%26PageIndex%3D1%26PageSize%3D10%26sign%3D
+
+
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:34179 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:34195 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:34196 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:34198 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP 127.0.0.1:34740 IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)
+IP  IO_Completed unkown error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.PostReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.ProcessReceive(SocketAsyncEventArgs ioEventArgs)
+   在 ZyGames.Framework.RPC.Sockets.SocketListener.IO_Completed(Object sender, SocketAsyncEventArgs ioEventArgs)

@@ -1,0 +1,181 @@
+Time:2015/6/9 11:06:03-Redis write queue start init...
+
+
+Time:2015/6/9 11:06:03-Sql wait write queue start init...
+
+
+Time:2015/6/9 11:06:03-Sql write queue start init...
+
+
+Time:2015/6/9 11:07:38-Redis write queue start init...
+
+
+Time:2015/6/9 11:07:38-Sql wait write queue start init...
+
+
+Time:2015/6/9 11:07:38-Sql write queue start init...
+
+
+Time:2015/6/9 11:10:59-Trace>>Receive Ip 127.0.0.1:33523 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:00-Trace>>Receive Ip 127.0.0.1:33524 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:00-Trace>>Receive Ip 127.0.0.1:33525 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:00-Trace>>Receive Ip 127.0.0.1:33526 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:01-Trace>>Receive Ip 127.0.0.1:33527 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:01-Trace>>Receive Ip 127.0.0.1:33528 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:01-Trace>>Receive Ip 127.0.0.1:33529 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:13-Trace>>Receive Ip 127.0.0.1:33532 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:13-Trace>>Receive Ip 127.0.0.1:33533 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:13-Trace>>Receive Ip 127.0.0.1:33534 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:13-Trace>>Receive Ip 127.0.0.1:33535 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:13-Trace>>Receive Ip 127.0.0.1:33536 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:11:13-Trace>>Receive Ip 127.0.0.1:33537 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:18:53-Redis write queue start init...
+
+
+Time:2015/6/9 11:18:53-Sql wait write queue start init...
+
+
+Time:2015/6/9 11:18:53-Sql write queue start init...
+
+
+Time:2015/6/9 11:18:58-Trace>>Receive Ip 127.0.0.1:34176 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:18:58-Trace>>Receive Ip 127.0.0.1:34177 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:18:58-Trace>>Receive Ip 127.0.0.1:34178 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:18:58-Trace>>Receive Ip 127.0.0.1:34179 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:18:58-Trace>>Receive Ip 127.0.0.1:34180 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:18:58-Trace>>Receive Ip 127.0.0.1:34181 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:00-Trace>>Receive Ip 127.0.0.1:34186 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:00-Trace>>Receive Ip 127.0.0.1:34187 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:01-Trace>>Receive Ip 127.0.0.1:34188 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:12-Trace>>Receive Ip 127.0.0.1:34193 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:12-Trace>>Receive Ip 127.0.0.1:34194 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:12-Trace>>Receive Ip 127.0.0.1:34195 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:12-Trace>>Receive Ip 127.0.0.1:34196 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:12-Trace>>Receive Ip 127.0.0.1:34197 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:19:12-Trace>>Receive Ip 127.0.0.1:34198 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:31:15-Redis write queue start init...
+
+
+Time:2015/6/9 11:31:15-Sql wait write queue start init...
+
+
+Time:2015/6/9 11:31:15-Sql write queue start init...
+
+
+Time:2015/6/9 11:31:17-Trace>>Receive Ip 127.0.0.1:34737 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:31:17-Trace>>Receive Ip 127.0.0.1:34738 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:31:21-Trace>>Receive Ip 127.0.0.1:34739 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:31:21-Trace>>Receive Ip 127.0.0.1:34740 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:31:50-Redis write queue start init...
+
+
+Time:2015/6/9 11:31:50-Sql wait write queue start init...
+
+
+Time:2015/6/9 11:31:50-Sql write queue start init...
+
+
+Time:2015/6/9 11:32:01-Trace>>Receive Ip 127.0.0.1:34764 message length error:542393671
+Data:GET 
+
+
+Time:2015/6/9 11:32:01-Trace>>Receive Ip 127.0.0.1:34765 message length error:542393671
+Data:GET 
+
+

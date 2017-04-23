@@ -1,0 +1,45 @@
+Time:2015/6/5 17:02:40-Trace>>User 0 sessionIds_484e7572027048689dab6a22a8d22ae3|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/5 17:12:45-Redis write queue start init...
+
+
+Time:2015/6/5 17:12:45-Sql wait write queue start init...
+
+
+Time:2015/6/5 17:12:45-Sql write queue start init...
+
+
+Time:2015/6/5 17:16:13-Redis write queue start init...
+
+
+Time:2015/6/5 17:16:13-Sql wait write queue start init...
+
+
+Time:2015/6/5 17:16:13-Sql write queue start init...
+
+
+Time:2015/6/5 17:27:18-Redis write queue start init...
+
+
+Time:2015/6/5 17:27:18-Sql wait write queue start init...
+
+
+Time:2015/6/5 17:27:18-Sql write queue start init...
+
+
+Time:2015/6/5 17:52:26-Redis write queue start init...
+
+
+Time:2015/6/5 17:52:26-Sql wait write queue start init...
+
+
+Time:2015/6/5 17:52:26-Sql write queue start init...
+
+
+Time:2015/6/5 17:55:47-Trace>>User 0 sessionIds_e78f20b6f81243739a8781db3c69c280|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+
+Time:2015/6/5 17:56:47-Trace>>User 0 sessionIds_1203c3a37dbc4ffa8e40a318019c1f6e|0|0 is expire 0001/1/1 0:00:00(7200sec)
+
+

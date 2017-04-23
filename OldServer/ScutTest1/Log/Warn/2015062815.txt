@@ -1,0 +1,69 @@
+Time:2015/6/28 15:01:34-Trace>>OnEntitySyncQueue execute count:1, success:38/total 41, fail:2 start...
+
+
+Time:2015/6/28 15:02:11-Trace>>OnEntitySyncQueue execute count:1, success:39/total 42, fail:2 start...
+
+
+Time:2015/6/28 15:02:44-Trace>>OnEntitySyncQueue execute count:1, success:40/total 43, fail:2 start...
+
+
+Time:2015/6/28 15:04:28-Trace>>OnEntitySyncQueue execute count:1, success:41/total 44, fail:2 start...
+
+
+Time:2015/6/28 15:07:04-Trace>>OnEntitySyncQueue execute count:1, success:42/total 45, fail:2 start...
+
+
+Time:2015/6/28 15:08:02-Trace>>OnEntitySyncQueue execute count:1, success:43/total 46, fail:2 start...
+
+
+Time:2015/6/28 15:08:29-Trace>>OnEntitySyncQueue execute count:1, success:44/total 47, fail:2 start...
+
+
+Time:2015/6/28 15:15:19-Trace>>Action-1004 Uid:1380026 access timeout 1008.1381/500ms.
+
+
+Time:2015/6/28 15:15:19-Trace>>OnEntitySyncQueue execute count:1, success:45/total 48, fail:2 start...
+
+
+Time:2015/6/28 15:23:10-Trace>>Action-1004 Uid:1380026 access timeout 1019.188/500ms.
+
+
+Time:2015/6/28 15:23:10-Trace>>OnEntitySyncQueue execute count:1, success:46/total 49, fail:2 start...
+
+
+Time:2015/6/28 15:23:23-Trace>>OnEntitySyncQueue execute count:2, success:47/total 51, fail:2 start...
+
+
+Time:2015/6/28 15:23:24-Trace>>Action-9103 Uid:1380026 access timeout 1346.075/500ms.
+
+
+Time:2015/6/28 15:23:24-Trace>>OnEntitySyncQueue execute count:1, success:49/total 52, fail:2 start...
+
+
+Time:2015/6/28 15:23:34-Trace>>OnEntitySyncQueue execute count:2, success:50/total 54, fail:2 start...
+
+
+Time:2015/6/28 15:24:00-Trace>>OnEntitySyncQueue execute count:3, success:52/total 57, fail:2 start...
+
+
+Time:2015/6/28 15:24:07-Trace>>OnEntitySyncQueue execute count:2, success:55/total 59, fail:2 start...
+
+
+Time:2015/6/28 15:24:11-Trace>>OnEntitySyncQueue execute count:2, success:57/total 61, fail:2 start...
+
+
+Time:2015/6/28 15:24:38-Trace>>OnEntitySyncQueue execute count:1, success:59/total 62, fail:2 start...
+
+
+Time:2015/6/28 15:50:00-Trace>>Action-1004 Uid:1380026 access timeout 1025.9273/500ms.
+
+
+Time:2015/6/28 15:50:00-Trace>>OnEntitySyncQueue execute count:1, success:60/total 63, fail:2 start...
+
+
+Time:2015/6/28 15:59:54-Trace>>Action-1004 Uid:1380026 access timeout 1024.6794/500ms.
+
+
+Time:2015/6/28 15:59:55-Trace>>OnEntitySyncQueue execute count:1, success:61/total 64, fail:2 start...
+
+

@@ -1,0 +1,138 @@
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:36:28-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:40:43-Trace>>CheckTableSchema UserProInfo error:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 ZyGames.Framework.Data.DbConnectionProvider.CreateDbProvider(String connectKey)
+   在 ZyGames.Framework.Data.DbConnectionProvider.CreateDbProvider(SchemaTable schema)
+   在 ZyGames.Framework.Model.EntitySchemaSet.CheckTableSchema(SchemaTable schema)
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:52-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:43:53-Trace>>The UserFriends set property:FriendType value:Friend
+System.ArgumentException: UserFriends index[FriendType] isn't exist.
+   在 GameServer.Model.UserFriends.set_Item(String index, Object value) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\Model\DataModel\UserFriends.cs:行号 149
+   在 ZyGames.Framework.Model.AbstractEntity.SetChange(String propertyName, Object value)
+   在 GameServer.Model.UserFriends.set_FriendType(FriendType value) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\Model\DataModel\UserFriends.cs:行号 73
+   在 GameServer.Model.UserFriends_set(Object , String , Object )
+   在 ZyGames.Framework.Common.Reflect.TypeAccessor.DelegateAccessor.set_Item(Object target, String name, Object value)
+   在 ZyGames.Framework.Common.Reflect.ObjectAccessor.TypeAccessorWrapper.set_Item(String name, Object value)
+   在 ZyGames.Framework.Model.AbstractEntity.SetPropertyValue(String property, Object value)
+
+
+Time:2015/6/10 14:43:53-Trace>>The UserFriends set property:FriendType value:Friend
+System.ArgumentException: UserFriends index[FriendType] isn't exist.
+   在 GameServer.Model.UserFriends.set_Item(String index, Object value) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\Model\DataModel\UserFriends.cs:行号 149
+   在 ZyGames.Framework.Model.AbstractEntity.SetChange(String propertyName, Object value)
+   在 GameServer.Model.UserFriends.set_FriendType(FriendType value) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\Model\DataModel\UserFriends.cs:行号 73
+   在 GameServer.Model.UserFriends_set(Object , String , Object )
+   在 ZyGames.Framework.Common.Reflect.TypeAccessor.DelegateAccessor.set_Item(Object target, String name, Object value)
+   在 ZyGames.Framework.Common.Reflect.ObjectAccessor.TypeAccessorWrapper.set_Item(String name, Object value)
+   在 ZyGames.Framework.Model.AbstractEntity.SetPropertyValue(String property, Object value)
+
+
+Time:2015/6/10 14:43:53-Trace>>The UserFriends set property:FriendType value:Friend
+System.ArgumentException: UserFriends index[FriendType] isn't exist.
+   在 GameServer.Model.UserFriends.set_Item(String index, Object value) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\Model\DataModel\UserFriends.cs:行号 149
+   在 ZyGames.Framework.Model.AbstractEntity.SetChange(String propertyName, Object value)
+   在 GameServer.Model.UserFriends.set_FriendType(FriendType value) 位置 g:\ServerProject\ScutTest1\ScutTest1\Script\Model\DataModel\UserFriends.cs:行号 73
+   在 GameServer.Model.UserFriends_set(Object , String , Object )
+   在 ZyGames.Framework.Common.Reflect.TypeAccessor.DelegateAccessor.set_Item(Object target, String name, Object value)
+   在 ZyGames.Framework.Common.Reflect.ObjectAccessor.TypeAccessorWrapper.set_Item(String name, Object value)
+   在 ZyGames.Framework.Model.AbstractEntity.SetPropertyValue(String property, Object value)
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+
+Time:2015/6/10 14:58:59-Trace>>Entity GameUser primary key is empty.
+
+

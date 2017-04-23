@@ -1,0 +1,12 @@
+Time:2015/6/8 14:52:45-Redis write queue start init...
+
+
+Time:2015/6/8 14:52:45-Sql wait write queue start init...
+
+
+Time:2015/6/8 14:52:45-Sql write queue start init...
+
+
+Time:2015/6/8 14:52:48-Trace>>The data:GameServer.Model.GameUser_1380009 has been loaded 1
+
+
